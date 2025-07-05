@@ -20,13 +20,13 @@ An interactive NLP-powered app for summarizing, questioning, and understanding r
 
 1. Clone this repo:
 
-git clone https://github.com/YOUR_USERNAME/Smart-Research-Assistant.git
-cd Smart-Research-Assistant
+    git clone https://github.com/YOUR_USERNAME/Smart-Research-Assistant.git
+    cd Smart-Research-Assistant
 
 2. Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. Run the app:
 
-streamlit run app.py
+    streamlit run app.py
