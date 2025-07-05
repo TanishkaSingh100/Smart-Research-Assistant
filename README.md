@@ -15,8 +15,10 @@ Note: Due to free-tier CPU constraints on HuggingFace Spaces, the app may take *
 
 ## Screenshots
 
+Upload and summary section :
 ![Screenshot 1](image/Screenshot1.png)
 
+Question and challenge me section
 ![Screenshot 2](image/Screenshot2.png)
 
 ---
@@ -29,7 +31,7 @@ Note: Due to free-tier CPU constraints on HuggingFace Spaces, the app may take *
 - Optional document preview
 - Professional UI/UX with Streamlit
 
-  ---
+---
 
 ## Tech Stack
 - Streamlit
@@ -37,7 +39,7 @@ Note: Due to free-tier CPU constraints on HuggingFace Spaces, the app may take *
 - PyMuPDF
 - Scikit-learn
 
-  ---
+---
 
 ## Run Locally
 
@@ -54,8 +56,8 @@ Note: Due to free-tier CPU constraints on HuggingFace Spaces, the app may take *
 
     streamlit run app.py
 
-  ---
+---
 
 ## Author
 
-   Tanishka Singh
+  Tanishka Singh
