@@ -45,7 +45,7 @@ Question and challenge me section
 
 1. *Clone this repo:*
 
-    git clone https://github.com/YOUR_USERNAME/Smart-Research-Assistant.git
+    git clone https://github.com/TanishkaSingh100/Smart-Research-Assistant.git
     cd Smart-Research-Assistant
 
 2. *Install dependencies:*
